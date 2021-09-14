@@ -1,3 +1,3 @@
 console.log('hihihi88');
 
-const hi = 0;
+const hi = 10;
